@@ -1,0 +1,16 @@
+/* Add CSS Styling */
+.btn-active,
+.btn-notactive {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", serif;
+}   
+
+.btn-active {
+    color: white;
+    background-color: black;
+}
+
+.btn-notactive {
+    color: black;
+    background-color: yellow;
+}
